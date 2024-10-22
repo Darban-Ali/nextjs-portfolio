@@ -51,9 +51,9 @@ function About() {
         <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
           <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>About Me</h2>
           <p className='font-medium'>
-         Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
+        " Hi, I'm CodeBucks, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
 and user-centered digital experiences. With 4 years of experience in the field. I am always looking for 
-new and innovative ways to bring my client's visions to life.
+new and innovative ways to bring my client's visions to life."
           </p>          
           <p className='my-4 font-medium'>
           I believe that design is about more than just making things look pretty – it's about solving problems and 
